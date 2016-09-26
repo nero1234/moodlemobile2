@@ -1,5 +1,5 @@
 {
-    "app_id" : "uk.ac.BCmoodlemobile",
+    "app_id" : "uk.ac.bcmoodlego",
     "appname": "Bridgend College Moodle Go",
     "versioncode" : "2014",
     "versionname" : "3.1.2bc",
@@ -9,7 +9,7 @@
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "demo_sites": {},
-    "siteurl":"http://moodle.bridgend.ac.uk"
+    "siteurl":"http://moodle.bridgend.ac.uk/newvle"
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile"
 }
